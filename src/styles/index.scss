@@ -8,6 +8,7 @@ body {
   box-sizing: border-box;
   width: $card-width;
   height: $card-height;
+  border: 1px;
   padding-top: 33px;
 
   &__image {
